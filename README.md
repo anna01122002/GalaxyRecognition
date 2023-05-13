@@ -1,0 +1,2 @@
+# GalaxyRecognition
+Курсовая МО
